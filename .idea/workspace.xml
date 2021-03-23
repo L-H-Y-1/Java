@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="" />
+    <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LeetCode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lUnI5dFYNhnNyFS4BEwa2nwPrZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +43,7 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C_122">
+  <component name="RunManager" selected="Application.B_14">
     <configuration name="A_350" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.A_350" />
       <module name="LeetCode" />
@@ -102,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C_122" />
         <item itemvalue="Application.B_14" />
+        <item itemvalue="Application.C_122" />
         <item itemvalue="Application.A_350" />
         <item itemvalue="Application.LetterOccurrences" />
         <item itemvalue="Application.ArrayToMap" />
@@ -158,7 +161,7 @@
       <workItem from="1616056045697" duration="4000" />
       <workItem from="1616122991793" duration="44000" />
       <workItem from="1616138996371" duration="9000" />
-      <workItem from="1616457006132" duration="2564000" />
+      <workItem from="1616457006132" duration="3364000" />
     </task>
     <servers />
   </component>
