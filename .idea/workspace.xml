@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/I_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/I_6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,13 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.I_6">
-    <configuration name="E_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.E_27" />
+  <component name="RunManager" selected="Application.D_2">
+    <configuration name="A_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LInkedList.A_19" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.F_66" />
+    <configuration name="B_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LInkedList.B_21" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.G_1" />
+    <configuration name="C_141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LInkedList.C_141" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.H_15" />
+    <configuration name="D_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LInkedList.D_2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.D_2" />
+        <item itemvalue="Application.C_141" />
+        <item itemvalue="Application.B_21" />
+        <item itemvalue="Application.A_19" />
         <item itemvalue="Application.I_6" />
-        <item itemvalue="Application.H_15" />
-        <item itemvalue="Application.G_1" />
-        <item itemvalue="Application.F_66" />
-        <item itemvalue="Application.E_27" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,9 @@
       <workItem from="1616122991793" duration="44000" />
       <workItem from="1616138996371" duration="9000" />
       <workItem from="1616457006132" duration="15339000" />
-      <workItem from="1616564288130" duration="5229000" />
+      <workItem from="1616564288130" duration="5343000" />
+      <workItem from="1616631549577" duration="12611000" />
+      <workItem from="1616652062336" duration="2635000" />
     </task>
     <servers />
   </component>
@@ -175,10 +178,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1030" y="178" key="#Notifications" timestamp="1609722551525">
+    <state x="1030" y="178" key="#Notifications" timestamp="1616631797486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1030" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1609722551525" />
+    <state x="1030" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1616631797486" />
     <state x="872" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1614479089982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -200,26 +203,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465977354" />
-    <state width="916" height="242" key="GridCell.Tab.0.bottom" timestamp="1616568259346">
+    <state width="916" height="202" key="GridCell.Tab.0.bottom" timestamp="1616656452626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616568259346" />
-    <state width="916" height="242" key="GridCell.Tab.0.center" timestamp="1616568259346">
+    <state width="916" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616656452626" />
+    <state width="916" height="202" key="GridCell.Tab.0.center" timestamp="1616656452626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616568259346" />
-    <state width="916" height="242" key="GridCell.Tab.0.left" timestamp="1616568259346">
+    <state width="916" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616656452626" />
+    <state width="916" height="202" key="GridCell.Tab.0.left" timestamp="1616656452626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="916" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616568259346" />
-    <state width="916" height="242" key="GridCell.Tab.0.right" timestamp="1616568259346">
+    <state width="916" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616656452626" />
+    <state width="916" height="202" key="GridCell.Tab.0.right" timestamp="1616656452626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616568259346" />
+    <state width="916" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616656452626" />
     <state x="432" y="201" key="SettingsEditor" timestamp="1616466445421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -237,11 +240,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613719638076" />
-    <state x="785" y="161" width="672" height="475" key="search.everywhere.popup" timestamp="1614502398297">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1616652735199">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="161" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614502398297" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609741809235" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616652735199" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
