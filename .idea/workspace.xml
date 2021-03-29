@@ -42,9 +42,48 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D_125">
-    <configuration name="A_344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.A_344" />
+  <component name="RunManager" selected="Application.C_98">
+    <configuration name="A_104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.A_104" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.B_102" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.C_98" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_796" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.E_796" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -56,51 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.B_387" />
+    <configuration name="F_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.F_58" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.C_28" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.D_125" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E_83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LInkedList.E_83" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.D_125" />
-        <item itemvalue="Application.C_28" />
-        <item itemvalue="Application.B_387" />
-        <item itemvalue="Application.E_83" />
-        <item itemvalue="Application.A_344" />
+        <item itemvalue="Application.C_98" />
+        <item itemvalue="Application.B_102" />
+        <item itemvalue="Application.A_104" />
+        <item itemvalue="Application.F_58" />
+        <item itemvalue="Application.E_796" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +171,7 @@
       <workItem from="1616631549577" duration="12611000" />
       <workItem from="1616652062336" duration="2635000" />
       <workItem from="1616722882849" duration="11232000" />
+      <workItem from="1616976387087" duration="12193000" />
     </task>
     <servers />
   </component>
@@ -191,6 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1145" y="199" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609725266488" />
+    <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616981045863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616981045863" />
     <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609122692242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,26 +208,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465977354" />
-    <state width="916" height="208" key="GridCell.Tab.0.bottom" timestamp="1616734711268">
+    <state width="905" height="200" key="GridCell.Tab.0.bottom" timestamp="1617007100274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616734711268" />
-    <state width="916" height="208" key="GridCell.Tab.0.center" timestamp="1616734711268">
+    <state width="905" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617007100274" />
+    <state width="905" height="200" key="GridCell.Tab.0.center" timestamp="1617007100274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616734711268" />
-    <state width="916" height="208" key="GridCell.Tab.0.left" timestamp="1616734711268">
+    <state width="905" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617007100274" />
+    <state width="905" height="200" key="GridCell.Tab.0.left" timestamp="1617007100273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="916" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616734711268" />
-    <state width="916" height="208" key="GridCell.Tab.0.right" timestamp="1616734711268">
+    <state width="905" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617007100273" />
+    <state width="905" height="200" key="GridCell.Tab.0.right" timestamp="1617007100274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="916" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616734711268" />
+    <state width="905" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617007100274" />
     <state x="432" y="201" key="SettingsEditor" timestamp="1616466445421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,11 +245,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613719638076" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1616652735199">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617005699985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="161" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614502398297" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616652735199" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617005699985" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
