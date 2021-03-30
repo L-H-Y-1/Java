@@ -36,6 +36,10 @@ package Tree;
 
         5. 返回res集合,集合中存放的第i个集合即为第i层的所有节点值
 
+        注:
+            BFS使用队列,先进先出,
+            DFS使用栈,先进后出
+
 */
 
 import java.util.*;
