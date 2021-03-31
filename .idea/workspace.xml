@@ -43,13 +43,13 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.G_222">
-    <configuration name="C_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.C_98" />
+  <component name="RunManager" selected="Application.F_92">
+    <configuration name="A_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrack.A_46" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="BackTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D_700" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.D_700" />
+    <configuration name="B_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrack.B_78" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="BackTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F_110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.F_110" />
+    <configuration name="C_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrack.C_90" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="BackTrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LInkedList.F_92" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="J_74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.J_74" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.F_92" />
+        <item itemvalue="Application.C_90" />
+        <item itemvalue="Application.B_78" />
+        <item itemvalue="Application.A_46" />
         <item itemvalue="Application.G_222" />
-        <item itemvalue="Application.F_110" />
-        <item itemvalue="Application.D_700" />
-        <item itemvalue="Application.J_74" />
-        <item itemvalue="Application.C_98" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +174,7 @@
       <workItem from="1616722882849" duration="11232000" />
       <workItem from="1616976387087" duration="12193000" />
       <workItem from="1617059974689" duration="19513000" />
+      <workItem from="1617146807664" duration="10588000" />
     </task>
     <servers />
   </component>
@@ -210,26 +211,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465977354" />
-    <state width="905" height="199" key="GridCell.Tab.0.bottom" timestamp="1617087844332">
+    <state width="905" height="199" key="GridCell.Tab.0.bottom" timestamp="1617180101015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="905" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617087844332" />
-    <state width="905" height="199" key="GridCell.Tab.0.center" timestamp="1617087844332">
+    <state width="905" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617180101015" />
+    <state width="905" height="199" key="GridCell.Tab.0.center" timestamp="1617180101015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="905" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617087844332" />
-    <state width="905" height="199" key="GridCell.Tab.0.left" timestamp="1617087844332">
+    <state width="905" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617180101015" />
+    <state width="905" height="199" key="GridCell.Tab.0.left" timestamp="1617180101015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="905" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617087844332" />
-    <state width="905" height="199" key="GridCell.Tab.0.right" timestamp="1617087844332">
+    <state width="905" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617180101015" />
+    <state width="905" height="199" key="GridCell.Tab.0.right" timestamp="1617180101015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="905" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617087844332" />
+    <state width="905" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617180101015" />
     <state x="432" y="201" key="SettingsEditor" timestamp="1616466445421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
