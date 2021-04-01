@@ -1,4 +1,4 @@
-package BitOperation;
+package MathOperation;
 
 /*
     190. 颠倒二进制位

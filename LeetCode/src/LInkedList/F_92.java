@@ -21,7 +21,7 @@ package LInkedList;
                 4. 递归调用方法,反转以head.next为表头的链表前n-1位,返回新链表头
                 5. 令head后继指向head,head指向后驱指针
                 6. 返回新链表头
-            
+
         #### 3. 反转链表left到right
                 1. 头结点为空,返回头结点
                 2. 如果left=1,调用方法(反转链表前right位)
