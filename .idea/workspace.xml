@@ -9,6 +9,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -42,26 +56,13 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.H_234">
+  <component name="RunManager" selected="Application.K_audition_17_21">
     <configuration name="B_1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MathOperation.B_1006" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MathOperation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BackTrack.C_90" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="K_audition_17_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.K_audition_17_21" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.K_audition_17_21" />
         <item itemvalue="Application.H_234" />
         <item itemvalue="Application.G_25" />
         <item itemvalue="Application.B_1006" />
         <item itemvalue="Application.F_92" />
-        <item itemvalue="Application.C_90" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +189,7 @@
       <workItem from="1617059974689" duration="19513000" />
       <workItem from="1617146807664" duration="10814000" />
       <workItem from="1617243468762" duration="12341000" />
+      <workItem from="1617324808316" duration="15526000" />
     </task>
     <servers />
   </component>
@@ -203,43 +218,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609122692242" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608622305316">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608622305316" />
     <state x="749" y="256" key="FileChooserDialogImpl" timestamp="1616465977354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465977354" />
-    <state width="913" height="197" key="GridCell.Tab.0.bottom" timestamp="1617257716848">
+    <state width="913" height="197" key="GridCell.Tab.0.bottom" timestamp="1617354160869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="913" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617257716848" />
-    <state width="913" height="197" key="GridCell.Tab.0.center" timestamp="1617257716848">
+    <state width="913" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617354160869" />
+    <state width="913" height="197" key="GridCell.Tab.0.center" timestamp="1617354160869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="913" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617257716848" />
-    <state width="913" height="197" key="GridCell.Tab.0.left" timestamp="1617257716848">
+    <state width="913" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617354160869" />
+    <state width="913" height="197" key="GridCell.Tab.0.left" timestamp="1617354160869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="913" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617257716848" />
-    <state width="913" height="197" key="GridCell.Tab.0.right" timestamp="1617257716848">
+    <state width="913" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617354160869" />
+    <state width="913" height="197" key="GridCell.Tab.0.right" timestamp="1617354160869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="913" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617257716848" />
-    <state x="432" y="201" key="SettingsEditor" timestamp="1616466445421">
+    <state width="913" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617354160869" />
+    <state x="432" y="189" key="SettingsEditor" timestamp="1617329789592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="292" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608713687487" />
-    <state x="432" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616466445421" />
+    <state x="432" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617329789592" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1608884098409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608884098409" />
+    <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617329851706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617329851706" />
     <state x="669" y="130" key="new project wizard" timestamp="1615966671327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -248,11 +263,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613719638076" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617005699985">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617348818704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="161" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614502398297" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617005699985" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617348818704" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
