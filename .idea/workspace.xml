@@ -190,6 +190,7 @@
       <workItem from="1617146807664" duration="10814000" />
       <workItem from="1617243468762" duration="12341000" />
       <workItem from="1617324808316" duration="15526000" />
+      <workItem from="1617688605308" duration="6615000" />
     </task>
     <servers />
   </component>
@@ -245,12 +246,7 @@
     <state x="432" y="189" key="SettingsEditor" timestamp="1617329789592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="292" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608713687487" />
     <state x="432" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617329789592" />
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1608884098409">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608884098409" />
     <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617329851706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -263,11 +259,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613719638076" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617348818704">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617692165130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="161" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614502398297" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617348818704" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617692165130" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
