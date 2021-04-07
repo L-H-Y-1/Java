@@ -191,6 +191,7 @@
       <workItem from="1617243468762" duration="12341000" />
       <workItem from="1617324808316" duration="15526000" />
       <workItem from="1617688605308" duration="6615000" />
+      <workItem from="1617760490020" duration="6722000" />
     </task>
     <servers />
   </component>
@@ -215,10 +216,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616981045863" />
-    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609122692242">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609122692242" />
     <state x="749" y="256" key="FileChooserDialogImpl" timestamp="1616465977354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -259,11 +256,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1613719638076" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617692165130">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1617772002558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="161" width="672" height="475" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614502398297" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617692165130" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617772002558" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
