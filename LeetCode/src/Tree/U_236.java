@@ -30,7 +30,7 @@ package Tree;
                 3. 只有一个在,返回本身
 */
 
-public class O_236 {
+public class U_236 {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
 
