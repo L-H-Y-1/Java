@@ -1,4 +1,4 @@
-package Array;
+package Dichotomy;
 
 /*
     81. 搜索旋转排序数组 II
@@ -35,7 +35,7 @@ package Array;
 
 import java.rmi.dgc.VMID;
 
-public class M_81 {
+public class B_81 {
     public boolean search(int[] nums, int target) {
 
         if (nums.length==0){
