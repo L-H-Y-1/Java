@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +196,8 @@
       <workItem from="1618270433675" duration="7493000" />
       <workItem from="1618361796829" duration="18000" />
       <workItem from="1618381183828" duration="8276000" />
+      <workItem from="1618539430389" duration="234000" />
+      <workItem from="1618808808920" duration="7798000" />
     </task>
     <servers />
   </component>
@@ -212,7 +213,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="872" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1614479089982" />
-    <state x="1244" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609746801610" />
     <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618382816263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,6 +249,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617329851706" />
+    <state x="1238" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618816739531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1238" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618816739531" />
     <state x="669" y="130" key="new project wizard" timestamp="1615966671327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
