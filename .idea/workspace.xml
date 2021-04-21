@@ -56,7 +56,20 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F_1011">
+  <component name="RunManager" selected="Application.B_567">
+    <configuration name="B_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.B_567" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SlidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E_875" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dichotomy.E_875" />
       <module name="LeetCode" />
@@ -76,19 +89,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Dichotomy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H_234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LInkedList.H_234" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LInkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_567" />
         <item itemvalue="Application.F_1011" />
         <item itemvalue="Application.E_875" />
         <item itemvalue="Application.N_179" />
         <item itemvalue="Application.K_audition_17_21" />
-        <item itemvalue="Application.H_234" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +198,7 @@
       <workItem from="1618381183828" duration="8276000" />
       <workItem from="1618539430389" duration="234000" />
       <workItem from="1618808808920" duration="7798000" />
+      <workItem from="1618971450192" duration="6419000" />
     </task>
     <servers />
   </component>
@@ -221,26 +222,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465977354" />
-    <state width="899" height="197" key="GridCell.Tab.0.bottom" timestamp="1618390381432">
+    <state width="899" height="197" key="GridCell.Tab.0.bottom" timestamp="1618978087325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="899" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618390381432" />
-    <state width="899" height="197" key="GridCell.Tab.0.center" timestamp="1618390381431">
+    <state width="899" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618978087325" />
+    <state width="899" height="197" key="GridCell.Tab.0.center" timestamp="1618978087325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="899" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618390381431" />
-    <state width="899" height="197" key="GridCell.Tab.0.left" timestamp="1618390381430">
+    <state width="899" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618978087325" />
+    <state width="899" height="197" key="GridCell.Tab.0.left" timestamp="1618978087325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="899" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618390381430" />
-    <state width="899" height="197" key="GridCell.Tab.0.right" timestamp="1618390381432">
+    <state width="899" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618978087325" />
+    <state width="899" height="197" key="GridCell.Tab.0.right" timestamp="1618978087325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="899" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618390381432" />
+    <state width="899" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618978087325" />
     <state x="432" y="189" key="SettingsEditor" timestamp="1617329789592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
