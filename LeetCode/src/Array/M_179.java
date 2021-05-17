@@ -28,7 +28,7 @@ package Array;
 
 */
 
-public class N_179 {
+public class M_179 {
 
     public String largestNumber(int[] nums) {
 
