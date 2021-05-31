@@ -32,12 +32,12 @@ import java.util.Stack;
 
 */
 
-public class JZ3 {
+public class JZ06 {
 
     public static void main(String[] args) {
-        JZ3 jz3 = new JZ3();
+        JZ06 jz3 = new JZ06();
         ListNode listNode = new ListNode(1,new ListNode(2,new ListNode(3,new ListNode(4,new ListNode(5)))));
-        jz3.printListFromTailToHead(listNode);
+        jz3.reversePrint(listNode);
         for ( Integer num : jz3.resList             ) {
             System.out.println(num);
         }
@@ -45,7 +45,7 @@ public class JZ3 {
 
     public ArrayList<Integer> resList = new ArrayList<>();
 
-    public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
+    public int[] reversePrint(ListNode head) {
 
         /*
         * 思路
@@ -54,31 +54,36 @@ public class JZ3 {
         * 3 用递归,类似二叉树的中后序遍历
         * */
 
-        if (listNode==null){
-            return resList;
+        if (head==null){
+            return new int[0];
         }
 
         /*// 1 反转链表
-        ListNode head = reverseLinkedList(listNode);
-        while (head!=null){
-            resList.add(head.val);
-            head = head.next;
+        ListNode node = reverseLinkedList(head);
+        while (node!=null){
+            resList.add(node.val);
+            node = node.next;
         }*/
 
-        /*// 2 利用栈先进后出的特性
+       /* // 2 利用栈先进后出的特性
         Stack<Integer> stack = new Stack<>();
-        while (listNode!=null){
-            stack.push(listNode.val);
-            listNode = listNode.next;
+        while (head!=null){
+            stack.push(head.val);
+            head = head.next;
         }
         while (!stack.empty()){
             resList.add(stack.pop());
         }*/
 
         // 3 用递归,类似二叉树的中后序遍历
-        recursion(listNode);
+        recursion(head);
 
-        return resList;
+        int[] res = new int[resList.size()];
+        for (int i = 0; i < resList.size(); i++) {
+            res[i] = resList.get(i);
+        }
+
+        return res;
 
     }
 

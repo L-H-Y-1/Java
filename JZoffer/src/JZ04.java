@@ -23,9 +23,9 @@
 
 */
 
-public class JZ1 {
+public class JZ04 {
 
-    public boolean Find(int target, int [][] array) {
+    public boolean Find(int target, int [][] matrix) {
 
         /*
         * 思路
@@ -36,21 +36,21 @@ public class JZ1 {
         * */
 
         // 特殊情况
-        if (array==null){
+        if (matrix==null || matrix.length==0 || matrix[0].length==0){
             return false;
         }
 
         // 初始右上角元素
-        int row = 0, column = array[0].length-1;
+        int row = 0, column = matrix[0].length-1;
 
         // 当行数列数越界时结束循环
-        while (row<=array.length-1 && column>=0){
+        while (row<=matrix.length-1 && column>=0){
 
-            if (array[row][column]>target){
+            if (matrix[row][column]>target){
                 column--;
-            }else if (array[row][column]<target){
+            }else if (matrix[row][column]<target){
                 row++;
-            }else if (array[row][column]==target){
+            }else if (matrix[row][column]==target){
                 return true;
             }
 

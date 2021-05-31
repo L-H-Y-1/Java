@@ -15,7 +15,7 @@
 
 */
 
-public class JZ2 {
+public class JZ05 {
 
     public static void main(String[] args) {
         String s = "We Are Happy.";
