@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JZoffer/JZ1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JZoffer/JZ1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JZoffer/JZ2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JZoffer/JZ2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JZoffer/JZ3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JZoffer/JZ3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JZoffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JZoffer/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/N_179.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/B_567.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/B_567.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +195,7 @@
       <workItem from="1621303327471" duration="10829000" />
       <workItem from="1622419456125" duration="2055000" />
       <workItem from="1622446998126" duration="4343000" />
+      <workItem from="1622529533682" duration="2746000" />
     </task>
     <servers />
   </component>
