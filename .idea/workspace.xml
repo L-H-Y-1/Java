@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ04.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ05.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ06.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ07.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ09.java" beforeDir="false" afterPath="$PROJECT_DIR$/JZoffer/src/JZ/JZ09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +65,7 @@
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JZ06">
+  <component name="RunManager" selected="Application.JZ11">
     <configuration name="B_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SlidingWindow.B_567" />
       <module name="LeetCode" />
@@ -87,21 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F_1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dichotomy.F_1011" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dichotomy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JZ05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JZ05" />
+      <option name="MAIN_CLASS_NAME" value="JZ.JZ05" />
       <module name="JZoffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JZ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZ.JZ11" />
+      <module name="JZoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ11" />
         <item itemvalue="Application.JZ06" />
         <item itemvalue="Application.JZ05" />
         <item itemvalue="Application.C_122" />
         <item itemvalue="Application.B_567" />
-        <item itemvalue="Application.F_1011" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +201,11 @@
       <workItem from="1622419456125" duration="2055000" />
       <workItem from="1622446998126" duration="4343000" />
       <workItem from="1622529533682" duration="2746000" />
+      <workItem from="1622599973736" duration="19000" />
+      <workItem from="1622617050408" duration="727000" />
+      <workItem from="1623033332873" duration="30000" />
+      <workItem from="1623039409989" duration="342000" />
+      <workItem from="1623117190131" duration="3694000" />
     </task>
     <servers />
   </component>
@@ -224,30 +234,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622447990904" />
-    <state x="749" y="256" key="FileChooserDialogImpl" timestamp="1621308790435">
+    <state x="749" y="256" key="FileChooserDialogImpl" timestamp="1623033367992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621308790435" />
-    <state width="911" height="198" key="GridCell.Tab.0.bottom" timestamp="1622451381241">
+    <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623033367992" />
+    <state width="911" height="197" key="GridCell.Tab.0.bottom" timestamp="1623120234696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="911" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622451381241" />
-    <state width="911" height="198" key="GridCell.Tab.0.center" timestamp="1622451381241">
+    <state width="911" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623120234696" />
+    <state width="911" height="197" key="GridCell.Tab.0.center" timestamp="1623120234695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="911" height="198" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622451381241" />
-    <state width="911" height="198" key="GridCell.Tab.0.left" timestamp="1622451381240">
+    <state width="911" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623120234695" />
+    <state width="911" height="197" key="GridCell.Tab.0.left" timestamp="1623120234695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614505904143" />
-    <state width="911" height="198" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622451381240" />
-    <state width="911" height="198" key="GridCell.Tab.0.right" timestamp="1622451381241">
+    <state width="911" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623120234695" />
+    <state width="911" height="197" key="GridCell.Tab.0.right" timestamp="1623120234696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="407" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614505904144" />
-    <state width="911" height="198" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622451381241" />
+    <state width="911" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623120234696" />
     <state x="432" y="189" key="SettingsEditor" timestamp="1621308780100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
