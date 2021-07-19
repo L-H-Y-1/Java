@@ -8,27 +8,89 @@ package JZ;
         在本题中，匹配是指字符串的所有字符匹配整个模式。
         例如，字符串"aaa"与模式"a.a"和"ab*ac*a"匹配，但与"aa.a"和"ab*a"均不匹配。
 
+    解题思路
+
+        1. 字符串长度为0的情况
+            // 若正则串长度为奇数,则不可能匹配.eg:".","ab*"
+            // 若正则串长度为偶数,且"*"在奇数位,可匹配.eg:"a*b*"
+
+        2. 若字符串长度不为0,但正则串长度为0,不匹配
+
+        3. 记录当前两串的首字母c1和c2,和正则串的下一个字母c3(若存在)
+
+        4. 判断c3是否为"*"
+            1. c3不是"*"
+                // 若当前两字母相等或c2是".",则当前匹配,剪去首字母递归继续比较
+                // 否则不匹配
+
+            2. c3是"*"
+                // 若当前两字母相等或c2是".",则当前匹配
+                // 要"*"前字母,将字符串下一字母与正则串比较
+                // 不要"*"前字母,直接省掉正则串前两位,与字符串比较
+                // 这两种情况一种匹配成功即可
+                // 若当前两字母不相等且c2不是".",直接省掉正则串前两位,与字符串比较
+
 */
 
 public class JZ19 {
 
     public boolean isMatch(String s, String p) {
 
-        char[] str = s.toCharArray();
-        char[] pstr = p.toCharArray();
-        boolean flag = false;
-
-        for (int i = 0; i < str.length; i++) {
-            if (pstr[i] == '.'){
-
-            }else if (pstr[i] == '*'){
-
+        // 字符串长度为0的情况
+        if (s.length()==0){
+            int len = p.length();
+            if ( len%2 != 0 ){
+                // 若正则串长度为奇数,则不可能匹配.eg:".","ab*"
+                return false;
             }else {
-
+                // 若正则串长度为偶数,且"*"在奇数位,可匹配.eg:"a*b*"
+                for (int i = 1; i < len ; i+=2) {
+                    if (p.charAt(i)!='*'){
+                        return false;
+                    }
+                }
+                return true;
             }
         }
 
-        return flag;
+        // 若字符串长度不为0,但正则串长度为0,不匹配
+        if (p.length()==0){
+            return false;
+        }
+
+        // 记录当前两串的首字母c1和c2,和正则串的下一个字母c3(若存在)
+        char c1 = s.charAt(0);
+        char c2 = p.charAt(0);
+        char c3 = '1';
+        if (p.length()>=2){
+            c3 = p.charAt(1);
+        }
+
+        // 判断c3是否为"*"
+        if (c3!='*'){
+            // c3不是"*"
+            if ( c1==c2 || c2=='.'){
+                // 若当前两字母相等或c2是".",则当前匹配,剪去两串首字母递归继续比较
+                return isMatch(s.substring(1),p.substring(1));
+            }else {
+                // 否则不匹配
+                return false;
+            }
+        }else {
+            // c3是"*"
+            if ( c1==c2 || c2=='.'){
+                // 若当前两字母相等或c2是".",则当前匹配
+                // 要"*"前字母,将字符串下一字母与正则串比较
+                // 不要"*"前字母,直接省掉正则串前两位,与字符串比较
+                // 这两种情况一种匹配成功即可
+                return isMatch(s.substring(1),p) || isMatch(s,p.substring(2));
+            }else {
+                // 若当前两字母不相等且c2不是".",直接省掉正则串前两位,与字符串比较
+                return isMatch(s,p.substring(2));
+            }
+
+        }
+
 
     }
 
