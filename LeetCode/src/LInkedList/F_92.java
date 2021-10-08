@@ -25,7 +25,7 @@ package LInkedList;
         #### 3. 反转链表left到right
                 1. 头结点为空,返回头结点
                 2. 如果left=1,调用方法(反转链表前right位)
-                3. 递归调用ff,反转以head.next为表头的链表left-1到right-1,返回新链表头
+                3. 递归调用方法,反转以head.next为表头的链表left-1到right-1,返回新链表头
                 4. 令head后继指向新链表头
                 5. 返回头结点
 

@@ -32,13 +32,13 @@ public class K_audition_17_21 {
         //找出当前位置左边最高的柱子
         int[] leftMax = new int[height.length];
         leftMax[0] = height[0];
-        System.out.println("当前位置左边最高的柱子");
-        System.out.print(leftMax[0]+" ");
+        //System.out.println("当前位置左边最高的柱子");
+        //System.out.print(leftMax[0]+" ");
         for (int i = 1; i < height.length; i++) {
             leftMax[i] = Math.max(leftMax[i-1],height[i]);
-            System.out.print(leftMax[i]+" ");
+            //System.out.print(leftMax[i]+" ");
         }
-        System.out.println(" ");
+        //System.out.println(" ");
 
         //找出当前位置右边最高的柱子
         int[] rightMax = new int[height.length];

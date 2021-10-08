@@ -21,7 +21,7 @@ package Array;
             2.如果nums[i]与val相等，将其与最后一个元素交换，n--
             3.如果不等，继续比较，i++
             4.当i>=n时循环结束
-            5.取数组下标为0-n的部分为结果
+            5.取数组下标为0-n的部分为结果 Arrays.copyOf(nums,n)
             6.n为新数组长度
 
 */
@@ -66,13 +66,13 @@ public class E_27 {
             }
         }
 
-        nums = Arrays.copyOf(nums,n);
+        /*nums = Arrays.copyOf(nums,n);
         System.out.println("_____________");
         for (int j = 0; j < nums.length; j++) {
             System.out.println(nums[j]);
         }
         System.out.println("_____________");
-        System.out.println(n);
+        System.out.println(n);*/
 
         return n;
 

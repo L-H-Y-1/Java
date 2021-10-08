@@ -51,7 +51,7 @@ public class O_652 {
         }
 
         //分别调用方法递归处理左右子树并拼接字符串
-        String subTreeString = stringTrees(root.left) + "," + stringTrees(root.right) + "," + root.val ;
+        String subTreeString =  root.val + "," + stringTrees(root.left) + "," + stringTrees(root.right);
 
         //判断此子树之前是否出现过
         int num = allTreeMap.getOrDefault(subTreeString,0);

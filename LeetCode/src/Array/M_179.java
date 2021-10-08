@@ -89,6 +89,7 @@ public class M_179 {
      *            2 拼接字符串s1为num1在前,s2为num2在前
      *            3 将两字符串转化为long,比较大小
      *            4 s1大,表示num1优先
+     *            5 int -> String : String.valueOf()
      * 若num1先于num2,返回true
      * */
     public boolean compareNum(int num1 , int num2){

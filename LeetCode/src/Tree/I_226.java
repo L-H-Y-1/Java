@@ -13,9 +13,6 @@ package Tree;
 */
 
 public class I_226 {
-    public static void main(String[] args) {
-
-    }
 
     public static TreeNode invertTree(TreeNode root) {
 

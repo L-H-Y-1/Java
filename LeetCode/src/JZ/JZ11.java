@@ -26,7 +26,7 @@ package JZ;
             3. numbers[mid]<numbers[right]
                 即numbers[mid]位于b中
                 最小值应为numbers[mid]或其右侧数值
-               解空间变为[left,mid]
+                解空间变为[left,mid]
             4. numbers[mid]==numbers[right]
                 由于重复元素的存在，无法确认numbers[mid]位置
                 除去b尾

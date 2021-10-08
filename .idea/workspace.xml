@@ -2,7 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a84dc4-577d-4a13-822b-8dbd5cdf6c59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/.idea/JZoffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/JZoffer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JZoffer/src/JZ/JZ11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/A_350.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/A_350.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/B_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/B_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/C_122.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/C_122.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/D_189.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/D_189.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/E_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/E_27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/F_66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/F_66.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/G_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/G_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/H_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/H_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/I_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/I_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/K_audition_17_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/K_audition_17_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/L_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/L_80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/M_179.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/M_179.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/N_380.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/N_380.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/O_710.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/O_710.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Array/Solution14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Array/Solution14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/A_46.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/A_46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/B_78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/B_78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/C_90.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/BackTrack/C_90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/A_74.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/A_74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/B_81.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/B_81.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/C_704.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/C_704.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/D_34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/D_34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/E_875.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/E_875.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/F_1011.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/F_1011.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/G_167.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Dichotomy/G_167.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/JZ21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/JZ/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/JZ/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/A_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/A_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/B_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/B_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/C_141.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/C_141.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/D_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/D_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/E_83.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/E_83.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/F_92.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/F_92.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/G_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/G_25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/H_234.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/H_234.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/I_142.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/I_142.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LInkedList/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MathOperation/A_190.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MathOperation/A_190.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MathOperation/B_1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MathOperation/B_1006.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/A_76.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/A_76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/B_567.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/B_567.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/C_438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/C_438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/D_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SlidingWindow/D_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/A_344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/A_344.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/B_387.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/B_387.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/C_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/C_28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/D_125.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/D_125.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/E_796.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/E_796.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/String/F_58.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/String/F_58.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/A_104.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/A_104.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/B_102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/B_102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/C_98.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/C_98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/D_700.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/D_700.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/E_450.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/E_450.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/F_110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/F_110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/G_222.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/G_222.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/H_814.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/H_814.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/I_226.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/I_226.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/J_116.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/J_116.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/K_114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/K_114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/L_654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/L_654.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/M_105.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/M_105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/N_106.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/N_106.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/NestedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/NestedInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/NestedIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/NestedIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/O_652.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/O_652.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/P_230.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/P_230.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/Q_538_1038.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/Q_538_1038.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/R_701.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/R_701.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/S_297.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/S_297.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T_341.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T_341.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/U_236.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/U_236.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/V_530_783.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/V_530_783.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/W_993.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/W_993.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +145,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,25 +155,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringLearning" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day24.overwrite" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JZ11">
-    <configuration name="B_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SlidingWindow.B_567" />
+  <component name="RunManager" selected="Application.Tree1">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrittenTest.ALi.Array" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SlidingWindow.*" />
+          <option name="PATTERN" value="WrittenTest.ALi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.C_122" />
+    <configuration name="Flower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrittenTest.Baidu.Flower" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="WrittenTest.Baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,26 +194,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JZ05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JZ.JZ05" />
-      <module name="JZoffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JZ06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JZ06" />
-      <module name="JZoffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JZ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JZ.JZ11" />
-      <module name="JZoffer" />
+    <configuration name="Rate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrittenTest.Baidu.Rate" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JZ.*" />
+          <option name="PATTERN" value="WrittenTest.Baidu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceAnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.SequenceAnd" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrittenTest.HuaWei.Tree1" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WrittenTest.HuaWei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JZ11" />
-        <item itemvalue="Application.JZ06" />
-        <item itemvalue="Application.JZ05" />
-        <item itemvalue="Application.C_122" />
-        <item itemvalue="Application.B_567" />
+        <item itemvalue="Application.Tree1" />
+        <item itemvalue="Application.Flower" />
+        <item itemvalue="Application.Rate" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.SequenceAnd" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +325,23 @@
       <workItem from="1623805499530" duration="1998000" />
       <workItem from="1624502721172" duration="23000" />
       <workItem from="1624859619920" duration="39000" />
+      <workItem from="1627286882376" duration="303000" />
+      <workItem from="1627291043943" duration="1706000" />
+      <workItem from="1628381337056" duration="21259000" />
+      <workItem from="1628641963939" duration="632000" />
+      <workItem from="1628685327036" duration="170000" />
+      <workItem from="1628728411899" duration="86000" />
+      <workItem from="1628754112166" duration="6530000" />
+      <workItem from="1628814530523" duration="30000" />
+      <workItem from="1629369723333" duration="637000" />
+      <workItem from="1629419306562" duration="28000" />
+      <workItem from="1629766234880" duration="16044000" />
+      <workItem from="1630370894800" duration="10765000" />
+      <workItem from="1630402250505" duration="8885000" />
+      <workItem from="1630650850702" duration="3680000" />
+      <workItem from="1630838393713" duration="643000" />
+      <workItem from="1630906411355" duration="16947000" />
+      <workItem from="1631428728140" duration="1263000" />
     </task>
     <servers />
   </component>
@@ -212,66 +349,92 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1030" y="178" key="#Notifications" timestamp="1616631797486">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1030" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1616631797486" />
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622447025395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622447025395" />
-    <state x="1226" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1621322084049">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1631099828756">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1226" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621322084049" />
-    <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618382816263">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1631099828756" />
+    <state x="245" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631420924128">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1002" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618382816263" />
+    <state x="245" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1631420924128" />
+    <state x="462" y="222" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1630654358056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="222" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1630654358056" />
     <state x="749" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1622447990904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622447990904" />
-    <state x="749" y="256" key="FileChooserDialogImpl" timestamp="1623812305790">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="772" y="100" width="496" height="535" key="DiffContextDialog" timestamp="1631104572923">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="772" y="100" width="496" height="535" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1631104572923" />
+    <state x="533" y="179" key="FileChooserDialogImpl" timestamp="1629419323132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="179" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629419323132" />
     <state x="749" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623812305790" />
-    <state width="911" height="197" key="GridCell.Tab.0.bottom" timestamp="1623141900382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="315" key="GridCell.Tab.0.bottom" timestamp="1631105061643">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="636" height="315" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631105061643" />
     <state width="911" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623141900382" />
-    <state width="911" height="197" key="GridCell.Tab.0.center" timestamp="1623141900382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="315" key="GridCell.Tab.0.center" timestamp="1631105061643">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="636" height="315" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1631105061643" />
     <state width="911" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623141900382" />
-    <state width="911" height="197" key="GridCell.Tab.0.left" timestamp="1623141900381">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="315" key="GridCell.Tab.0.left" timestamp="1631105061643">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="636" height="315" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1631105061643" />
     <state width="911" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623141900381" />
-    <state width="911" height="197" key="GridCell.Tab.0.right" timestamp="1623141900382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="315" key="GridCell.Tab.0.right" timestamp="1631105061643">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="636" height="315" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1631105061643" />
     <state width="911" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623141900382" />
-    <state x="432" y="189" key="SettingsEditor" timestamp="1621308780100">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="277" key="GridCell.Tab.1.bottom" timestamp="1631104637918">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="432" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621308780100" />
-    <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617329851706">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="277" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631104637918" />
+    <state width="636" height="277" key="GridCell.Tab.1.center" timestamp="1631104637918">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1054" y="100" width="773" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617329851706" />
-    <state x="1238" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618816739531">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="277" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1631104637918" />
+    <state width="636" height="277" key="GridCell.Tab.1.left" timestamp="1631104637917">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1238" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1618816739531" />
-    <state x="994" y="238" width="910" height="802" key="new project wizard" timestamp="1622423507488">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="636" height="277" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1631104637917" />
+    <state width="636" height="277" key="GridCell.Tab.1.right" timestamp="1631104637918">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="636" height="277" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1631104637918" />
+    <state x="307" y="0" key="SettingsEditor" timestamp="1627291462443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="307" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627291462443" />
+    <state x="420" y="39" width="908" height="565" key="new project wizard" timestamp="1627346791764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="39" width="908" height="565" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1627346791764" />
     <state x="994" y="238" width="910" height="802" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1622423507488" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1618385083559">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1628573760170">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618385083559" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1628573760170" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1630460616557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1630460616557" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1630401521224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1630401521224" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -279,6 +442,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JavaSE/src/day23/HotelSystem.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/WrittenTest/HuaWei/Tree1.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
